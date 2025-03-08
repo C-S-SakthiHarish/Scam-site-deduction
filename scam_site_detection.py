@@ -155,15 +155,3 @@ if __name__ == "__main__":
     
     
     
-# SSL Certificate Validation
-# ~25%
-# WHOIS Lookup
-# ~15%
-# Suspicious Keywords in URL
-# ~12%
-# Google Safe Browsing API
-# ~45%
-# HTTPS Check
-# ~8%
-# Total Confidence Estimate
-# ~70-80%
